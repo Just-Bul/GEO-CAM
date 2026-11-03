@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android"],
+  "apple": {
+    "modules": ["VideoStampingModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.videostamping.VideoStampingModule"]
+  }
+}
